@@ -1,0 +1,6 @@
+{
+    "program": "syncial_reputation_v1.aleo",
+    "version": "0.1.0",
+    "description": "Syncial Reputation - On-chain reputation tracking",
+    "license": "MIT"
+  }
